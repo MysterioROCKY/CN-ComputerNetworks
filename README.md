@@ -12,25 +12,25 @@ This repository contains various C programs related to computer networks, includ
 - `SlidingWindow_Protocol.c`: Implementation of the Sliding Window protocol.
 - `StopWait_Protocol.c`: Implementation of the Stop and Wait protocol.
 
-### Directories
+## Directories
 
 - `ServerClient_Chat_TCP/`: Contains server and client programs for chat communication over TCP.
-  - `server.c`: TCP server for chat communication.
-  - `client.c`: TCP client for chat communication.
+  - `Server_Chat_TCP.c`: TCP server for chat communication.
+  - `Client_Chat_TCP.c`: TCP client for chat communication.
 
 - `ServerClient_Chat_UDP/`: Contains server and client programs for chat communication over UDP.
-  - `server.c`: UDP server for chat communication.
-  - `client.c`: UDP client for chat communication.
+  - `Server_Chat_UDP.c`: UDP server for chat communication.
+  - `Client_Chat_UDP.c`: UDP client for chat communication.
 
 - `ServerClient_File_TCP/`: Contains server and client programs for file transfer over TCP.
-  - `server.c`: TCP server for file transfer.
-  - `client.c`: TCP client for file transfer.
+  - `Server_File_TCP.c`: TCP server for file transfer.
+  - `Client_File_TCP.c`: TCP client for file transfer.
 
 - `ServerClient_File_UDP/`: Contains server and client programs for file transfer over UDP.
-  - `server.c`: UDP server for file transfer.
-  - `client.c`: UDP client for file transfer.
+  - `Server_File_UDP.c`: UDP server for file transfer.
+  - `Client_File_UDP.c`: UDP client for file transfer.
 
-## How to Compile
+### How to Compile
 
 To compile any of the C programs, use the `gcc` compiler. For example, to compile `BitStuffing.c`, you can use the following command:
 
