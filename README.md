@@ -1,6 +1,6 @@
 # CN-ComputerNetworks
 
-This repository contains various C programs related to computer networks, including protocols and client-server communication implementations.
+This repository contains various C programs related to computer networks, including **protocols** and **client-server communication** implementations.
 
 ## Contents
 
